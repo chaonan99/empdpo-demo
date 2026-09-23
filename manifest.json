@@ -1,0 +1,2258 @@
+[
+ {
+  "lang": "en",
+  "text_id": "emp-en-006",
+  "voice": 1,
+  "gender": "male",
+  "text": "We agreed to meet at noon, and it's almost one now.",
+  "target": "noon",
+  "target_start": 21,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/en/emp-en-006-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/en/emp-en-006-voice1-sft-plain.mp3",
+    "emph": "audio/en/emp-en-006-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/en/emp-en-006-voice1-dpo-plain.mp3",
+    "emph": "audio/en/emp-en-006-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/en/emp-en-006-voice1-fish-s2-plain.mp3",
+    "emph": "audio/en/emp-en-006-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/en/emp-en-006-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/en/emp-en-006-voice1-qwen3-tts-emph.mp3"
+   },
+   "WordVoice": {
+    "plain": "audio/en/emp-en-006-voice1-wordvoice-plain.mp3",
+    "emph": "audio/en/emp-en-006-voice1-wordvoice-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "en",
+  "text_id": "emp-en-006",
+  "voice": 3,
+  "gender": "female",
+  "text": "We agreed to meet at noon, and it's almost one now.",
+  "target": "noon",
+  "target_start": 21,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/en/emp-en-006-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/en/emp-en-006-voice3-sft-plain.mp3",
+    "emph": "audio/en/emp-en-006-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/en/emp-en-006-voice3-dpo-plain.mp3",
+    "emph": "audio/en/emp-en-006-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/en/emp-en-006-voice3-fish-s2-plain.mp3",
+    "emph": "audio/en/emp-en-006-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/en/emp-en-006-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/en/emp-en-006-voice3-qwen3-tts-emph.mp3"
+   },
+   "WordVoice": {
+    "plain": "audio/en/emp-en-006-voice3-wordvoice-plain.mp3",
+    "emph": "audio/en/emp-en-006-voice3-wordvoice-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "en",
+  "text_id": "emp-en-046",
+  "voice": 1,
+  "gender": "male",
+  "text": "It wasn't the price that bothered me, it was the lies.",
+  "target": "lies",
+  "target_start": 49,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/en/emp-en-046-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/en/emp-en-046-voice1-sft-plain.mp3",
+    "emph": "audio/en/emp-en-046-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/en/emp-en-046-voice1-dpo-plain.mp3",
+    "emph": "audio/en/emp-en-046-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/en/emp-en-046-voice1-fish-s2-plain.mp3",
+    "emph": "audio/en/emp-en-046-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/en/emp-en-046-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/en/emp-en-046-voice1-qwen3-tts-emph.mp3"
+   },
+   "WordVoice": {
+    "plain": "audio/en/emp-en-046-voice1-wordvoice-plain.mp3",
+    "emph": "audio/en/emp-en-046-voice1-wordvoice-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "en",
+  "text_id": "emp-en-046",
+  "voice": 3,
+  "gender": "female",
+  "text": "It wasn't the price that bothered me, it was the lies.",
+  "target": "lies",
+  "target_start": 49,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/en/emp-en-046-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/en/emp-en-046-voice3-sft-plain.mp3",
+    "emph": "audio/en/emp-en-046-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/en/emp-en-046-voice3-dpo-plain.mp3",
+    "emph": "audio/en/emp-en-046-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/en/emp-en-046-voice3-fish-s2-plain.mp3",
+    "emph": "audio/en/emp-en-046-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/en/emp-en-046-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/en/emp-en-046-voice3-qwen3-tts-emph.mp3"
+   },
+   "WordVoice": {
+    "plain": "audio/en/emp-en-046-voice3-wordvoice-plain.mp3",
+    "emph": "audio/en/emp-en-046-voice3-wordvoice-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "en",
+  "text_id": "emp-en-065",
+  "voice": 1,
+  "gender": "male",
+  "text": "I did send the landlord that email twice before the deadline.",
+  "target": "did",
+  "target_start": 2,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/en/emp-en-065-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/en/emp-en-065-voice1-sft-plain.mp3",
+    "emph": "audio/en/emp-en-065-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/en/emp-en-065-voice1-dpo-plain.mp3",
+    "emph": "audio/en/emp-en-065-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/en/emp-en-065-voice1-fish-s2-plain.mp3",
+    "emph": "audio/en/emp-en-065-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/en/emp-en-065-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/en/emp-en-065-voice1-qwen3-tts-emph.mp3"
+   },
+   "WordVoice": {
+    "plain": "audio/en/emp-en-065-voice1-wordvoice-plain.mp3",
+    "emph": "audio/en/emp-en-065-voice1-wordvoice-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "en",
+  "text_id": "emp-en-065",
+  "voice": 3,
+  "gender": "female",
+  "text": "I did send the landlord that email twice before the deadline.",
+  "target": "did",
+  "target_start": 2,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/en/emp-en-065-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/en/emp-en-065-voice3-sft-plain.mp3",
+    "emph": "audio/en/emp-en-065-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/en/emp-en-065-voice3-dpo-plain.mp3",
+    "emph": "audio/en/emp-en-065-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/en/emp-en-065-voice3-fish-s2-plain.mp3",
+    "emph": "audio/en/emp-en-065-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/en/emp-en-065-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/en/emp-en-065-voice3-qwen3-tts-emph.mp3"
+   },
+   "WordVoice": {
+    "plain": "audio/en/emp-en-065-voice3-wordvoice-plain.mp3",
+    "emph": "audio/en/emp-en-065-voice3-wordvoice-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "en",
+  "text_id": "emp-en-067",
+  "voice": 1,
+  "gender": "male",
+  "text": "Payroll actually closes today, which is why finance keeps chasing everybody.",
+  "target": "today",
+  "target_start": 24,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/en/emp-en-067-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/en/emp-en-067-voice1-sft-plain.mp3",
+    "emph": "audio/en/emp-en-067-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/en/emp-en-067-voice1-dpo-plain.mp3",
+    "emph": "audio/en/emp-en-067-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/en/emp-en-067-voice1-fish-s2-plain.mp3",
+    "emph": "audio/en/emp-en-067-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/en/emp-en-067-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/en/emp-en-067-voice1-qwen3-tts-emph.mp3"
+   },
+   "WordVoice": {
+    "plain": "audio/en/emp-en-067-voice1-wordvoice-plain.mp3",
+    "emph": "audio/en/emp-en-067-voice1-wordvoice-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "en",
+  "text_id": "emp-en-067",
+  "voice": 3,
+  "gender": "female",
+  "text": "Payroll actually closes today, which is why finance keeps chasing everybody.",
+  "target": "today",
+  "target_start": 24,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/en/emp-en-067-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/en/emp-en-067-voice3-sft-plain.mp3",
+    "emph": "audio/en/emp-en-067-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/en/emp-en-067-voice3-dpo-plain.mp3",
+    "emph": "audio/en/emp-en-067-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/en/emp-en-067-voice3-fish-s2-plain.mp3",
+    "emph": "audio/en/emp-en-067-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/en/emp-en-067-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/en/emp-en-067-voice3-qwen3-tts-emph.mp3"
+   },
+   "WordVoice": {
+    "plain": "audio/en/emp-en-067-voice3-wordvoice-plain.mp3",
+    "emph": "audio/en/emp-en-067-voice3-wordvoice-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "en",
+  "text_id": "emp-en-071",
+  "voice": 1,
+  "gender": "male",
+  "text": "That was not the number I gave the insurance agent yesterday.",
+  "target": "not",
+  "target_start": 9,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/en/emp-en-071-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/en/emp-en-071-voice1-sft-plain.mp3",
+    "emph": "audio/en/emp-en-071-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/en/emp-en-071-voice1-dpo-plain.mp3",
+    "emph": "audio/en/emp-en-071-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/en/emp-en-071-voice1-fish-s2-plain.mp3",
+    "emph": "audio/en/emp-en-071-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/en/emp-en-071-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/en/emp-en-071-voice1-qwen3-tts-emph.mp3"
+   },
+   "WordVoice": {
+    "plain": "audio/en/emp-en-071-voice1-wordvoice-plain.mp3",
+    "emph": "audio/en/emp-en-071-voice1-wordvoice-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "en",
+  "text_id": "emp-en-071",
+  "voice": 3,
+  "gender": "female",
+  "text": "That was not the number I gave the insurance agent yesterday.",
+  "target": "not",
+  "target_start": 9,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/en/emp-en-071-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/en/emp-en-071-voice3-sft-plain.mp3",
+    "emph": "audio/en/emp-en-071-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/en/emp-en-071-voice3-dpo-plain.mp3",
+    "emph": "audio/en/emp-en-071-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/en/emp-en-071-voice3-fish-s2-plain.mp3",
+    "emph": "audio/en/emp-en-071-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/en/emp-en-071-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/en/emp-en-071-voice3-qwen3-tts-emph.mp3"
+   },
+   "WordVoice": {
+    "plain": "audio/en/emp-en-071-voice3-wordvoice-plain.mp3",
+    "emph": "audio/en/emp-en-071-voice3-wordvoice-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "en",
+  "text_id": "emp-en-072",
+  "voice": 1,
+  "gender": "male",
+  "text": "Now the sauce needs to simmer while you grate the parmesan.",
+  "target": "Now",
+  "target_start": 0,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/en/emp-en-072-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/en/emp-en-072-voice1-sft-plain.mp3",
+    "emph": "audio/en/emp-en-072-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/en/emp-en-072-voice1-dpo-plain.mp3",
+    "emph": "audio/en/emp-en-072-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/en/emp-en-072-voice1-fish-s2-plain.mp3",
+    "emph": "audio/en/emp-en-072-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/en/emp-en-072-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/en/emp-en-072-voice1-qwen3-tts-emph.mp3"
+   },
+   "WordVoice": {
+    "plain": "audio/en/emp-en-072-voice1-wordvoice-plain.mp3",
+    "emph": "audio/en/emp-en-072-voice1-wordvoice-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "en",
+  "text_id": "emp-en-072",
+  "voice": 3,
+  "gender": "female",
+  "text": "Now the sauce needs to simmer while you grate the parmesan.",
+  "target": "Now",
+  "target_start": 0,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/en/emp-en-072-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/en/emp-en-072-voice3-sft-plain.mp3",
+    "emph": "audio/en/emp-en-072-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/en/emp-en-072-voice3-dpo-plain.mp3",
+    "emph": "audio/en/emp-en-072-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/en/emp-en-072-voice3-fish-s2-plain.mp3",
+    "emph": "audio/en/emp-en-072-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/en/emp-en-072-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/en/emp-en-072-voice3-qwen3-tts-emph.mp3"
+   },
+   "WordVoice": {
+    "plain": "audio/en/emp-en-072-voice3-wordvoice-plain.mp3",
+    "emph": "audio/en/emp-en-072-voice3-wordvoice-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "zh",
+  "text_id": "emp-zh-044",
+  "voice": 1,
+  "gender": "male",
+  "text": "机会只有一次,错过就没了。",
+  "target": "错过",
+  "target_start": 7,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/zh/emp-zh-044-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/zh/emp-zh-044-voice1-sft-plain.mp3",
+    "emph": "audio/zh/emp-zh-044-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/zh/emp-zh-044-voice1-dpo-plain.mp3",
+    "emph": "audio/zh/emp-zh-044-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/zh/emp-zh-044-voice1-fish-s2-plain.mp3",
+    "emph": "audio/zh/emp-zh-044-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/zh/emp-zh-044-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/zh/emp-zh-044-voice1-qwen3-tts-emph.mp3"
+   },
+   "WordVoice": {
+    "plain": "audio/zh/emp-zh-044-voice1-wordvoice-plain.mp3",
+    "emph": "audio/zh/emp-zh-044-voice1-wordvoice-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "zh",
+  "text_id": "emp-zh-044",
+  "voice": 3,
+  "gender": "female",
+  "text": "机会只有一次,错过就没了。",
+  "target": "错过",
+  "target_start": 7,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/zh/emp-zh-044-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/zh/emp-zh-044-voice3-sft-plain.mp3",
+    "emph": "audio/zh/emp-zh-044-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/zh/emp-zh-044-voice3-dpo-plain.mp3",
+    "emph": "audio/zh/emp-zh-044-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/zh/emp-zh-044-voice3-fish-s2-plain.mp3",
+    "emph": "audio/zh/emp-zh-044-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/zh/emp-zh-044-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/zh/emp-zh-044-voice3-qwen3-tts-emph.mp3"
+   },
+   "WordVoice": {
+    "plain": "audio/zh/emp-zh-044-voice3-wordvoice-plain.mp3",
+    "emph": "audio/zh/emp-zh-044-voice3-wordvoice-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "zh",
+  "text_id": "emp-zh-057",
+  "voice": 1,
+  "gender": "male",
+  "text": "这下的不是雨,是暴雨,快进来。",
+  "target": "暴雨",
+  "target_start": 8,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/zh/emp-zh-057-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/zh/emp-zh-057-voice1-sft-plain.mp3",
+    "emph": "audio/zh/emp-zh-057-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/zh/emp-zh-057-voice1-dpo-plain.mp3",
+    "emph": "audio/zh/emp-zh-057-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/zh/emp-zh-057-voice1-fish-s2-plain.mp3",
+    "emph": "audio/zh/emp-zh-057-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/zh/emp-zh-057-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/zh/emp-zh-057-voice1-qwen3-tts-emph.mp3"
+   },
+   "WordVoice": {
+    "plain": "audio/zh/emp-zh-057-voice1-wordvoice-plain.mp3",
+    "emph": "audio/zh/emp-zh-057-voice1-wordvoice-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "zh",
+  "text_id": "emp-zh-057",
+  "voice": 3,
+  "gender": "female",
+  "text": "这下的不是雨,是暴雨,快进来。",
+  "target": "暴雨",
+  "target_start": 8,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/zh/emp-zh-057-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/zh/emp-zh-057-voice3-sft-plain.mp3",
+    "emph": "audio/zh/emp-zh-057-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/zh/emp-zh-057-voice3-dpo-plain.mp3",
+    "emph": "audio/zh/emp-zh-057-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/zh/emp-zh-057-voice3-fish-s2-plain.mp3",
+    "emph": "audio/zh/emp-zh-057-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/zh/emp-zh-057-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/zh/emp-zh-057-voice3-qwen3-tts-emph.mp3"
+   },
+   "WordVoice": {
+    "plain": "audio/zh/emp-zh-057-voice3-wordvoice-plain.mp3",
+    "emph": "audio/zh/emp-zh-057-voice3-wordvoice-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "zh",
+  "text_id": "emp-zh-059",
+  "voice": 1,
+  "gender": "male",
+  "text": "别告诉我来不及,现在就出发。",
+  "target": "现在",
+  "target_start": 8,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/zh/emp-zh-059-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/zh/emp-zh-059-voice1-sft-plain.mp3",
+    "emph": "audio/zh/emp-zh-059-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/zh/emp-zh-059-voice1-dpo-plain.mp3",
+    "emph": "audio/zh/emp-zh-059-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/zh/emp-zh-059-voice1-fish-s2-plain.mp3",
+    "emph": "audio/zh/emp-zh-059-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/zh/emp-zh-059-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/zh/emp-zh-059-voice1-qwen3-tts-emph.mp3"
+   },
+   "WordVoice": {
+    "plain": "audio/zh/emp-zh-059-voice1-wordvoice-plain.mp3",
+    "emph": "audio/zh/emp-zh-059-voice1-wordvoice-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "zh",
+  "text_id": "emp-zh-059",
+  "voice": 3,
+  "gender": "female",
+  "text": "别告诉我来不及,现在就出发。",
+  "target": "现在",
+  "target_start": 8,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/zh/emp-zh-059-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/zh/emp-zh-059-voice3-sft-plain.mp3",
+    "emph": "audio/zh/emp-zh-059-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/zh/emp-zh-059-voice3-dpo-plain.mp3",
+    "emph": "audio/zh/emp-zh-059-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/zh/emp-zh-059-voice3-fish-s2-plain.mp3",
+    "emph": "audio/zh/emp-zh-059-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/zh/emp-zh-059-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/zh/emp-zh-059-voice3-qwen3-tts-emph.mp3"
+   },
+   "WordVoice": {
+    "plain": "audio/zh/emp-zh-059-voice3-wordvoice-plain.mp3",
+    "emph": "audio/zh/emp-zh-059-voice3-wordvoice-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "zh",
+  "text_id": "emp-zh-066",
+  "voice": 1,
+  "gender": "male",
+  "text": "这件事我昨天是跟她讲过的，可惜她当时没放在心上。",
+  "target": "是",
+  "target_start": 6,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/zh/emp-zh-066-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/zh/emp-zh-066-voice1-sft-plain.mp3",
+    "emph": "audio/zh/emp-zh-066-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/zh/emp-zh-066-voice1-dpo-plain.mp3",
+    "emph": "audio/zh/emp-zh-066-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/zh/emp-zh-066-voice1-fish-s2-plain.mp3",
+    "emph": "audio/zh/emp-zh-066-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/zh/emp-zh-066-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/zh/emp-zh-066-voice1-qwen3-tts-emph.mp3"
+   },
+   "WordVoice": {
+    "plain": "audio/zh/emp-zh-066-voice1-wordvoice-plain.mp3",
+    "emph": "audio/zh/emp-zh-066-voice1-wordvoice-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "zh",
+  "text_id": "emp-zh-066",
+  "voice": 3,
+  "gender": "female",
+  "text": "这件事我昨天是跟她讲过的，可惜她当时没放在心上。",
+  "target": "是",
+  "target_start": 6,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/zh/emp-zh-066-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/zh/emp-zh-066-voice3-sft-plain.mp3",
+    "emph": "audio/zh/emp-zh-066-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/zh/emp-zh-066-voice3-dpo-plain.mp3",
+    "emph": "audio/zh/emp-zh-066-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/zh/emp-zh-066-voice3-fish-s2-plain.mp3",
+    "emph": "audio/zh/emp-zh-066-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/zh/emp-zh-066-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/zh/emp-zh-066-voice3-qwen3-tts-emph.mp3"
+   },
+   "WordVoice": {
+    "plain": "audio/zh/emp-zh-066-voice3-wordvoice-plain.mp3",
+    "emph": "audio/zh/emp-zh-066-voice3-wordvoice-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "zh",
+  "text_id": "emp-zh-071",
+  "voice": 1,
+  "gender": "male",
+  "text": "咱们下午的例会就在一楼大厅开，不用再爬到楼上去。",
+  "target": "一楼",
+  "target_start": 9,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/zh/emp-zh-071-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/zh/emp-zh-071-voice1-sft-plain.mp3",
+    "emph": "audio/zh/emp-zh-071-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/zh/emp-zh-071-voice1-dpo-plain.mp3",
+    "emph": "audio/zh/emp-zh-071-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/zh/emp-zh-071-voice1-fish-s2-plain.mp3",
+    "emph": "audio/zh/emp-zh-071-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/zh/emp-zh-071-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/zh/emp-zh-071-voice1-qwen3-tts-emph.mp3"
+   },
+   "WordVoice": {
+    "plain": "audio/zh/emp-zh-071-voice1-wordvoice-plain.mp3",
+    "emph": "audio/zh/emp-zh-071-voice1-wordvoice-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "zh",
+  "text_id": "emp-zh-071",
+  "voice": 3,
+  "gender": "female",
+  "text": "咱们下午的例会就在一楼大厅开，不用再爬到楼上去。",
+  "target": "一楼",
+  "target_start": 9,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/zh/emp-zh-071-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/zh/emp-zh-071-voice3-sft-plain.mp3",
+    "emph": "audio/zh/emp-zh-071-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/zh/emp-zh-071-voice3-dpo-plain.mp3",
+    "emph": "audio/zh/emp-zh-071-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/zh/emp-zh-071-voice3-fish-s2-plain.mp3",
+    "emph": "audio/zh/emp-zh-071-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/zh/emp-zh-071-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/zh/emp-zh-071-voice3-qwen3-tts-emph.mp3"
+   },
+   "WordVoice": {
+    "plain": "audio/zh/emp-zh-071-voice3-wordvoice-plain.mp3",
+    "emph": "audio/zh/emp-zh-071-voice3-wordvoice-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "zh",
+  "text_id": "emp-zh-072",
+  "voice": 1,
+  "gender": "male",
+  "text": "现在我们开始最后一次彩排，请大家把手机调成静音。",
+  "target": "现在",
+  "target_start": 0,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/zh/emp-zh-072-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/zh/emp-zh-072-voice1-sft-plain.mp3",
+    "emph": "audio/zh/emp-zh-072-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/zh/emp-zh-072-voice1-dpo-plain.mp3",
+    "emph": "audio/zh/emp-zh-072-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/zh/emp-zh-072-voice1-fish-s2-plain.mp3",
+    "emph": "audio/zh/emp-zh-072-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/zh/emp-zh-072-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/zh/emp-zh-072-voice1-qwen3-tts-emph.mp3"
+   },
+   "WordVoice": {
+    "plain": "audio/zh/emp-zh-072-voice1-wordvoice-plain.mp3",
+    "emph": "audio/zh/emp-zh-072-voice1-wordvoice-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "zh",
+  "text_id": "emp-zh-072",
+  "voice": 3,
+  "gender": "female",
+  "text": "现在我们开始最后一次彩排，请大家把手机调成静音。",
+  "target": "现在",
+  "target_start": 0,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/zh/emp-zh-072-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/zh/emp-zh-072-voice3-sft-plain.mp3",
+    "emph": "audio/zh/emp-zh-072-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/zh/emp-zh-072-voice3-dpo-plain.mp3",
+    "emph": "audio/zh/emp-zh-072-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/zh/emp-zh-072-voice3-fish-s2-plain.mp3",
+    "emph": "audio/zh/emp-zh-072-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/zh/emp-zh-072-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/zh/emp-zh-072-voice3-qwen3-tts-emph.mp3"
+   },
+   "WordVoice": {
+    "plain": "audio/zh/emp-zh-072-voice3-wordvoice-plain.mp3",
+    "emph": "audio/zh/emp-zh-072-voice3-wordvoice-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "de",
+  "text_id": "emp-de-015",
+  "voice": 1,
+  "gender": "male",
+  "text": "Sag mir nicht, was ich nicht kann.",
+  "target": "kann",
+  "target_start": 29,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/de/emp-de-015-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/de/emp-de-015-voice1-sft-plain.mp3",
+    "emph": "audio/de/emp-de-015-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/de/emp-de-015-voice1-dpo-plain.mp3",
+    "emph": "audio/de/emp-de-015-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/de/emp-de-015-voice1-fish-s2-plain.mp3",
+    "emph": "audio/de/emp-de-015-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/de/emp-de-015-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/de/emp-de-015-voice1-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "de",
+  "text_id": "emp-de-015",
+  "voice": 3,
+  "gender": "female",
+  "text": "Sag mir nicht, was ich nicht kann.",
+  "target": "kann",
+  "target_start": 29,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/de/emp-de-015-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/de/emp-de-015-voice3-sft-plain.mp3",
+    "emph": "audio/de/emp-de-015-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/de/emp-de-015-voice3-dpo-plain.mp3",
+    "emph": "audio/de/emp-de-015-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/de/emp-de-015-voice3-fish-s2-plain.mp3",
+    "emph": "audio/de/emp-de-015-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/de/emp-de-015-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/de/emp-de-015-voice3-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "de",
+  "text_id": "emp-de-031",
+  "voice": 1,
+  "gender": "male",
+  "text": "Ich habe zwei Tickets bestellt, nicht zwanzig.",
+  "target": "zwei",
+  "target_start": 9,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/de/emp-de-031-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/de/emp-de-031-voice1-sft-plain.mp3",
+    "emph": "audio/de/emp-de-031-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/de/emp-de-031-voice1-dpo-plain.mp3",
+    "emph": "audio/de/emp-de-031-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/de/emp-de-031-voice1-fish-s2-plain.mp3",
+    "emph": "audio/de/emp-de-031-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/de/emp-de-031-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/de/emp-de-031-voice1-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "de",
+  "text_id": "emp-de-031",
+  "voice": 3,
+  "gender": "female",
+  "text": "Ich habe zwei Tickets bestellt, nicht zwanzig.",
+  "target": "zwei",
+  "target_start": 9,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/de/emp-de-031-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/de/emp-de-031-voice3-sft-plain.mp3",
+    "emph": "audio/de/emp-de-031-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/de/emp-de-031-voice3-dpo-plain.mp3",
+    "emph": "audio/de/emp-de-031-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/de/emp-de-031-voice3-fish-s2-plain.mp3",
+    "emph": "audio/de/emp-de-031-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/de/emp-de-031-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/de/emp-de-031-voice3-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "de",
+  "text_id": "emp-de-045",
+  "voice": 1,
+  "gender": "male",
+  "text": "Sie hat nicht nur zugehört, sie hat verstanden.",
+  "target": "verstanden",
+  "target_start": 36,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/de/emp-de-045-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/de/emp-de-045-voice1-sft-plain.mp3",
+    "emph": "audio/de/emp-de-045-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/de/emp-de-045-voice1-dpo-plain.mp3",
+    "emph": "audio/de/emp-de-045-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/de/emp-de-045-voice1-fish-s2-plain.mp3",
+    "emph": "audio/de/emp-de-045-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/de/emp-de-045-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/de/emp-de-045-voice1-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "de",
+  "text_id": "emp-de-045",
+  "voice": 3,
+  "gender": "female",
+  "text": "Sie hat nicht nur zugehört, sie hat verstanden.",
+  "target": "verstanden",
+  "target_start": 36,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/de/emp-de-045-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/de/emp-de-045-voice3-sft-plain.mp3",
+    "emph": "audio/de/emp-de-045-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/de/emp-de-045-voice3-dpo-plain.mp3",
+    "emph": "audio/de/emp-de-045-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/de/emp-de-045-voice3-fish-s2-plain.mp3",
+    "emph": "audio/de/emp-de-045-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/de/emp-de-045-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/de/emp-de-045-voice3-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "de",
+  "text_id": "emp-de-058",
+  "voice": 1,
+  "gender": "male",
+  "text": "Er hat nicht einfach gewonnen, er hat alles gewonnen.",
+  "target": "alles",
+  "target_start": 38,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/de/emp-de-058-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/de/emp-de-058-voice1-sft-plain.mp3",
+    "emph": "audio/de/emp-de-058-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/de/emp-de-058-voice1-dpo-plain.mp3",
+    "emph": "audio/de/emp-de-058-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/de/emp-de-058-voice1-fish-s2-plain.mp3",
+    "emph": "audio/de/emp-de-058-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/de/emp-de-058-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/de/emp-de-058-voice1-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "de",
+  "text_id": "emp-de-058",
+  "voice": 3,
+  "gender": "female",
+  "text": "Er hat nicht einfach gewonnen, er hat alles gewonnen.",
+  "target": "alles",
+  "target_start": 38,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/de/emp-de-058-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/de/emp-de-058-voice3-sft-plain.mp3",
+    "emph": "audio/de/emp-de-058-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/de/emp-de-058-voice3-dpo-plain.mp3",
+    "emph": "audio/de/emp-de-058-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/de/emp-de-058-voice3-fish-s2-plain.mp3",
+    "emph": "audio/de/emp-de-058-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/de/emp-de-058-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/de/emp-de-058-voice3-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "de",
+  "text_id": "emp-de-065",
+  "voice": 1,
+  "gender": "male",
+  "text": "Er wird pünktlich zum Abendessen da sein, das verspreche ich dir.",
+  "target": "wird",
+  "target_start": 3,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/de/emp-de-065-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/de/emp-de-065-voice1-sft-plain.mp3",
+    "emph": "audio/de/emp-de-065-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/de/emp-de-065-voice1-dpo-plain.mp3",
+    "emph": "audio/de/emp-de-065-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/de/emp-de-065-voice1-fish-s2-plain.mp3",
+    "emph": "audio/de/emp-de-065-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/de/emp-de-065-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/de/emp-de-065-voice1-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "de",
+  "text_id": "emp-de-065",
+  "voice": 3,
+  "gender": "female",
+  "text": "Er wird pünktlich zum Abendessen da sein, das verspreche ich dir.",
+  "target": "wird",
+  "target_start": 3,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/de/emp-de-065-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/de/emp-de-065-voice3-sft-plain.mp3",
+    "emph": "audio/de/emp-de-065-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/de/emp-de-065-voice3-dpo-plain.mp3",
+    "emph": "audio/de/emp-de-065-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/de/emp-de-065-voice3-fish-s2-plain.mp3",
+    "emph": "audio/de/emp-de-065-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/de/emp-de-065-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/de/emp-de-065-voice3-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "de",
+  "text_id": "emp-de-073",
+  "voice": 1,
+  "gender": "male",
+  "text": "Sie hat gestern die Wohnung geputzt, nicht ich, das schwöre ich.",
+  "target": "Sie",
+  "target_start": 0,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/de/emp-de-073-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/de/emp-de-073-voice1-sft-plain.mp3",
+    "emph": "audio/de/emp-de-073-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/de/emp-de-073-voice1-dpo-plain.mp3",
+    "emph": "audio/de/emp-de-073-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/de/emp-de-073-voice1-fish-s2-plain.mp3",
+    "emph": "audio/de/emp-de-073-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/de/emp-de-073-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/de/emp-de-073-voice1-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "de",
+  "text_id": "emp-de-073",
+  "voice": 3,
+  "gender": "female",
+  "text": "Sie hat gestern die Wohnung geputzt, nicht ich, das schwöre ich.",
+  "target": "Sie",
+  "target_start": 0,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/de/emp-de-073-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/de/emp-de-073-voice3-sft-plain.mp3",
+    "emph": "audio/de/emp-de-073-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/de/emp-de-073-voice3-dpo-plain.mp3",
+    "emph": "audio/de/emp-de-073-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/de/emp-de-073-voice3-fish-s2-plain.mp3",
+    "emph": "audio/de/emp-de-073-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/de/emp-de-073-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/de/emp-de-073-voice3-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "es",
+  "text_id": "emp-es-010",
+  "voice": 1,
+  "gender": "male",
+  "text": "Es la última vez que lo explico.",
+  "target": "última",
+  "target_start": 6,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/es/emp-es-010-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/es/emp-es-010-voice1-sft-plain.mp3",
+    "emph": "audio/es/emp-es-010-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/es/emp-es-010-voice1-dpo-plain.mp3",
+    "emph": "audio/es/emp-es-010-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/es/emp-es-010-voice1-fish-s2-plain.mp3",
+    "emph": "audio/es/emp-es-010-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/es/emp-es-010-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/es/emp-es-010-voice1-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "es",
+  "text_id": "emp-es-010",
+  "voice": 3,
+  "gender": "female",
+  "text": "Es la última vez que lo explico.",
+  "target": "última",
+  "target_start": 6,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/es/emp-es-010-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/es/emp-es-010-voice3-sft-plain.mp3",
+    "emph": "audio/es/emp-es-010-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/es/emp-es-010-voice3-dpo-plain.mp3",
+    "emph": "audio/es/emp-es-010-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/es/emp-es-010-voice3-fish-s2-plain.mp3",
+    "emph": "audio/es/emp-es-010-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/es/emp-es-010-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/es/emp-es-010-voice3-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "es",
+  "text_id": "emp-es-017",
+  "voice": 1,
+  "gender": "male",
+  "text": "Lo terminaré, cueste lo que cueste.",
+  "target": "cueste",
+  "target_start": 14,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/es/emp-es-017-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/es/emp-es-017-voice1-sft-plain.mp3",
+    "emph": "audio/es/emp-es-017-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/es/emp-es-017-voice1-dpo-plain.mp3",
+    "emph": "audio/es/emp-es-017-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/es/emp-es-017-voice1-fish-s2-plain.mp3",
+    "emph": "audio/es/emp-es-017-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/es/emp-es-017-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/es/emp-es-017-voice1-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "es",
+  "text_id": "emp-es-017",
+  "voice": 3,
+  "gender": "female",
+  "text": "Lo terminaré, cueste lo que cueste.",
+  "target": "cueste",
+  "target_start": 14,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/es/emp-es-017-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/es/emp-es-017-voice3-sft-plain.mp3",
+    "emph": "audio/es/emp-es-017-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/es/emp-es-017-voice3-dpo-plain.mp3",
+    "emph": "audio/es/emp-es-017-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/es/emp-es-017-voice3-fish-s2-plain.mp3",
+    "emph": "audio/es/emp-es-017-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/es/emp-es-017-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/es/emp-es-017-voice3-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "es",
+  "text_id": "emp-es-026",
+  "voice": 1,
+  "gender": "male",
+  "text": "El restaurante no era caro, era escandaloso.",
+  "target": "escandaloso",
+  "target_start": 32,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/es/emp-es-026-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/es/emp-es-026-voice1-sft-plain.mp3",
+    "emph": "audio/es/emp-es-026-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/es/emp-es-026-voice1-dpo-plain.mp3",
+    "emph": "audio/es/emp-es-026-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/es/emp-es-026-voice1-fish-s2-plain.mp3",
+    "emph": "audio/es/emp-es-026-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/es/emp-es-026-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/es/emp-es-026-voice1-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "es",
+  "text_id": "emp-es-026",
+  "voice": 3,
+  "gender": "female",
+  "text": "El restaurante no era caro, era escandaloso.",
+  "target": "escandaloso",
+  "target_start": 32,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/es/emp-es-026-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/es/emp-es-026-voice3-sft-plain.mp3",
+    "emph": "audio/es/emp-es-026-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/es/emp-es-026-voice3-dpo-plain.mp3",
+    "emph": "audio/es/emp-es-026-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/es/emp-es-026-voice3-fish-s2-plain.mp3",
+    "emph": "audio/es/emp-es-026-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/es/emp-es-026-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/es/emp-es-026-voice3-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "es",
+  "text_id": "emp-es-052",
+  "voice": 1,
+  "gender": "male",
+  "text": "Tienes todo el derecho de estar furioso.",
+  "target": "furioso",
+  "target_start": 32,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/es/emp-es-052-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/es/emp-es-052-voice1-sft-plain.mp3",
+    "emph": "audio/es/emp-es-052-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/es/emp-es-052-voice1-dpo-plain.mp3",
+    "emph": "audio/es/emp-es-052-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/es/emp-es-052-voice1-fish-s2-plain.mp3",
+    "emph": "audio/es/emp-es-052-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/es/emp-es-052-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/es/emp-es-052-voice1-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "es",
+  "text_id": "emp-es-052",
+  "voice": 3,
+  "gender": "female",
+  "text": "Tienes todo el derecho de estar furioso.",
+  "target": "furioso",
+  "target_start": 32,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/es/emp-es-052-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/es/emp-es-052-voice3-sft-plain.mp3",
+    "emph": "audio/es/emp-es-052-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/es/emp-es-052-voice3-dpo-plain.mp3",
+    "emph": "audio/es/emp-es-052-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/es/emp-es-052-voice3-fish-s2-plain.mp3",
+    "emph": "audio/es/emp-es-052-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/es/emp-es-052-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/es/emp-es-052-voice3-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "es",
+  "text_id": "emp-es-060",
+  "voice": 1,
+  "gender": "male",
+  "text": "No ganó por suerte, ganó por disciplina.",
+  "target": "disciplina",
+  "target_start": 29,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/es/emp-es-060-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/es/emp-es-060-voice1-sft-plain.mp3",
+    "emph": "audio/es/emp-es-060-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/es/emp-es-060-voice1-dpo-plain.mp3",
+    "emph": "audio/es/emp-es-060-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/es/emp-es-060-voice1-fish-s2-plain.mp3",
+    "emph": "audio/es/emp-es-060-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/es/emp-es-060-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/es/emp-es-060-voice1-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "es",
+  "text_id": "emp-es-060",
+  "voice": 3,
+  "gender": "female",
+  "text": "No ganó por suerte, ganó por disciplina.",
+  "target": "disciplina",
+  "target_start": 29,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/es/emp-es-060-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/es/emp-es-060-voice3-sft-plain.mp3",
+    "emph": "audio/es/emp-es-060-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/es/emp-es-060-voice3-dpo-plain.mp3",
+    "emph": "audio/es/emp-es-060-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/es/emp-es-060-voice3-fish-s2-plain.mp3",
+    "emph": "audio/es/emp-es-060-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/es/emp-es-060-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/es/emp-es-060-voice3-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "es",
+  "text_id": "emp-es-064",
+  "voice": 1,
+  "gender": "male",
+  "text": "Si alguien pregunta por lo del viernes en el grupo, la respuesta es no.",
+  "target": "no",
+  "target_start": 68,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/es/emp-es-064-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/es/emp-es-064-voice1-sft-plain.mp3",
+    "emph": "audio/es/emp-es-064-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/es/emp-es-064-voice1-dpo-plain.mp3",
+    "emph": "audio/es/emp-es-064-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/es/emp-es-064-voice1-fish-s2-plain.mp3",
+    "emph": "audio/es/emp-es-064-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/es/emp-es-064-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/es/emp-es-064-voice1-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "es",
+  "text_id": "emp-es-064",
+  "voice": 3,
+  "gender": "female",
+  "text": "Si alguien pregunta por lo del viernes en el grupo, la respuesta es no.",
+  "target": "no",
+  "target_start": 68,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/es/emp-es-064-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/es/emp-es-064-voice3-sft-plain.mp3",
+    "emph": "audio/es/emp-es-064-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/es/emp-es-064-voice3-dpo-plain.mp3",
+    "emph": "audio/es/emp-es-064-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/es/emp-es-064-voice3-fish-s2-plain.mp3",
+    "emph": "audio/es/emp-es-064-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/es/emp-es-064-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/es/emp-es-064-voice3-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "fr",
+  "text_id": "emp-fr-018",
+  "voice": 1,
+  "gender": "male",
+  "text": "Lis tout le rapport avant de commenter.",
+  "target": "tout",
+  "target_start": 4,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/fr/emp-fr-018-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/fr/emp-fr-018-voice1-sft-plain.mp3",
+    "emph": "audio/fr/emp-fr-018-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/fr/emp-fr-018-voice1-dpo-plain.mp3",
+    "emph": "audio/fr/emp-fr-018-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/fr/emp-fr-018-voice1-fish-s2-plain.mp3",
+    "emph": "audio/fr/emp-fr-018-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/fr/emp-fr-018-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/fr/emp-fr-018-voice1-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "fr",
+  "text_id": "emp-fr-018",
+  "voice": 3,
+  "gender": "female",
+  "text": "Lis tout le rapport avant de commenter.",
+  "target": "tout",
+  "target_start": 4,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/fr/emp-fr-018-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/fr/emp-fr-018-voice3-sft-plain.mp3",
+    "emph": "audio/fr/emp-fr-018-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/fr/emp-fr-018-voice3-dpo-plain.mp3",
+    "emph": "audio/fr/emp-fr-018-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/fr/emp-fr-018-voice3-fish-s2-plain.mp3",
+    "emph": "audio/fr/emp-fr-018-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/fr/emp-fr-018-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/fr/emp-fr-018-voice3-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "fr",
+  "text_id": "emp-fr-020",
+  "voice": 1,
+  "gender": "male",
+  "text": "Il n'a pas juste gagné, il a écrasé tout le monde.",
+  "target": "écrasé",
+  "target_start": 29,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/fr/emp-fr-020-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/fr/emp-fr-020-voice1-sft-plain.mp3",
+    "emph": "audio/fr/emp-fr-020-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/fr/emp-fr-020-voice1-dpo-plain.mp3",
+    "emph": "audio/fr/emp-fr-020-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/fr/emp-fr-020-voice1-fish-s2-plain.mp3",
+    "emph": "audio/fr/emp-fr-020-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/fr/emp-fr-020-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/fr/emp-fr-020-voice1-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "fr",
+  "text_id": "emp-fr-020",
+  "voice": 3,
+  "gender": "female",
+  "text": "Il n'a pas juste gagné, il a écrasé tout le monde.",
+  "target": "écrasé",
+  "target_start": 29,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/fr/emp-fr-020-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/fr/emp-fr-020-voice3-sft-plain.mp3",
+    "emph": "audio/fr/emp-fr-020-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/fr/emp-fr-020-voice3-dpo-plain.mp3",
+    "emph": "audio/fr/emp-fr-020-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/fr/emp-fr-020-voice3-fish-s2-plain.mp3",
+    "emph": "audio/fr/emp-fr-020-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/fr/emp-fr-020-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/fr/emp-fr-020-voice3-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "fr",
+  "text_id": "emp-fr-034",
+  "voice": 1,
+  "gender": "male",
+  "text": "On avait dit à midi, il est presque treize heures.",
+  "target": "midi",
+  "target_start": 15,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/fr/emp-fr-034-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/fr/emp-fr-034-voice1-sft-plain.mp3",
+    "emph": "audio/fr/emp-fr-034-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/fr/emp-fr-034-voice1-dpo-plain.mp3",
+    "emph": "audio/fr/emp-fr-034-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/fr/emp-fr-034-voice1-fish-s2-plain.mp3",
+    "emph": "audio/fr/emp-fr-034-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/fr/emp-fr-034-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/fr/emp-fr-034-voice1-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "fr",
+  "text_id": "emp-fr-034",
+  "voice": 3,
+  "gender": "female",
+  "text": "On avait dit à midi, il est presque treize heures.",
+  "target": "midi",
+  "target_start": 15,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/fr/emp-fr-034-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/fr/emp-fr-034-voice3-sft-plain.mp3",
+    "emph": "audio/fr/emp-fr-034-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/fr/emp-fr-034-voice3-dpo-plain.mp3",
+    "emph": "audio/fr/emp-fr-034-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/fr/emp-fr-034-voice3-fish-s2-plain.mp3",
+    "emph": "audio/fr/emp-fr-034-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/fr/emp-fr-034-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/fr/emp-fr-034-voice3-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "fr",
+  "text_id": "emp-fr-042",
+  "voice": 1,
+  "gender": "male",
+  "text": "Elle ne nous a pas aidés, elle nous a sauvés.",
+  "target": "sauvés",
+  "target_start": 38,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/fr/emp-fr-042-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/fr/emp-fr-042-voice1-sft-plain.mp3",
+    "emph": "audio/fr/emp-fr-042-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/fr/emp-fr-042-voice1-dpo-plain.mp3",
+    "emph": "audio/fr/emp-fr-042-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/fr/emp-fr-042-voice1-fish-s2-plain.mp3",
+    "emph": "audio/fr/emp-fr-042-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/fr/emp-fr-042-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/fr/emp-fr-042-voice1-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "fr",
+  "text_id": "emp-fr-042",
+  "voice": 3,
+  "gender": "female",
+  "text": "Elle ne nous a pas aidés, elle nous a sauvés.",
+  "target": "sauvés",
+  "target_start": 38,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/fr/emp-fr-042-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/fr/emp-fr-042-voice3-sft-plain.mp3",
+    "emph": "audio/fr/emp-fr-042-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/fr/emp-fr-042-voice3-dpo-plain.mp3",
+    "emph": "audio/fr/emp-fr-042-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/fr/emp-fr-042-voice3-fish-s2-plain.mp3",
+    "emph": "audio/fr/emp-fr-042-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/fr/emp-fr-042-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/fr/emp-fr-042-voice3-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "fr",
+  "text_id": "emp-fr-062",
+  "voice": 1,
+  "gender": "male",
+  "text": "La livraison arrive lundi, je préfère te prévenir avant que tu prennes ton congé.",
+  "target": "lundi",
+  "target_start": 20,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/fr/emp-fr-062-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/fr/emp-fr-062-voice1-sft-plain.mp3",
+    "emph": "audio/fr/emp-fr-062-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/fr/emp-fr-062-voice1-dpo-plain.mp3",
+    "emph": "audio/fr/emp-fr-062-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/fr/emp-fr-062-voice1-fish-s2-plain.mp3",
+    "emph": "audio/fr/emp-fr-062-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/fr/emp-fr-062-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/fr/emp-fr-062-voice1-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "fr",
+  "text_id": "emp-fr-062",
+  "voice": 3,
+  "gender": "female",
+  "text": "La livraison arrive lundi, je préfère te prévenir avant que tu prennes ton congé.",
+  "target": "lundi",
+  "target_start": 20,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/fr/emp-fr-062-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/fr/emp-fr-062-voice3-sft-plain.mp3",
+    "emph": "audio/fr/emp-fr-062-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/fr/emp-fr-062-voice3-dpo-plain.mp3",
+    "emph": "audio/fr/emp-fr-062-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/fr/emp-fr-062-voice3-fish-s2-plain.mp3",
+    "emph": "audio/fr/emp-fr-062-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/fr/emp-fr-062-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/fr/emp-fr-062-voice3-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "fr",
+  "text_id": "emp-fr-071",
+  "voice": 1,
+  "gender": "male",
+  "text": "Tu es le seul à pouvoir régler ça avant la réunion de demain matin.",
+  "target": "seul",
+  "target_start": 9,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/fr/emp-fr-071-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/fr/emp-fr-071-voice1-sft-plain.mp3",
+    "emph": "audio/fr/emp-fr-071-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/fr/emp-fr-071-voice1-dpo-plain.mp3",
+    "emph": "audio/fr/emp-fr-071-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/fr/emp-fr-071-voice1-fish-s2-plain.mp3",
+    "emph": "audio/fr/emp-fr-071-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/fr/emp-fr-071-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/fr/emp-fr-071-voice1-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "fr",
+  "text_id": "emp-fr-071",
+  "voice": 3,
+  "gender": "female",
+  "text": "Tu es le seul à pouvoir régler ça avant la réunion de demain matin.",
+  "target": "seul",
+  "target_start": 9,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/fr/emp-fr-071-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/fr/emp-fr-071-voice3-sft-plain.mp3",
+    "emph": "audio/fr/emp-fr-071-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/fr/emp-fr-071-voice3-dpo-plain.mp3",
+    "emph": "audio/fr/emp-fr-071-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/fr/emp-fr-071-voice3-fish-s2-plain.mp3",
+    "emph": "audio/fr/emp-fr-071-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/fr/emp-fr-071-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/fr/emp-fr-071-voice3-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "ja",
+  "text_id": "emp-ja-040",
+  "voice": 1,
+  "gender": "male",
+  "text": "あなたのためじゃない、みんなのためにやってるんだ。",
+  "target": "みんな",
+  "target_start": 11,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/ja/emp-ja-040-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/ja/emp-ja-040-voice1-sft-plain.mp3",
+    "emph": "audio/ja/emp-ja-040-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/ja/emp-ja-040-voice1-dpo-plain.mp3",
+    "emph": "audio/ja/emp-ja-040-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/ja/emp-ja-040-voice1-fish-s2-plain.mp3",
+    "emph": "audio/ja/emp-ja-040-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/ja/emp-ja-040-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/ja/emp-ja-040-voice1-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "ja",
+  "text_id": "emp-ja-040",
+  "voice": 3,
+  "gender": "female",
+  "text": "あなたのためじゃない、みんなのためにやってるんだ。",
+  "target": "みんな",
+  "target_start": 11,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/ja/emp-ja-040-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/ja/emp-ja-040-voice3-sft-plain.mp3",
+    "emph": "audio/ja/emp-ja-040-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/ja/emp-ja-040-voice3-dpo-plain.mp3",
+    "emph": "audio/ja/emp-ja-040-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/ja/emp-ja-040-voice3-fish-s2-plain.mp3",
+    "emph": "audio/ja/emp-ja-040-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/ja/emp-ja-040-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/ja/emp-ja-040-voice3-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "ja",
+  "text_id": "emp-ja-050",
+  "voice": 1,
+  "gender": "male",
+  "text": "この料理は辛いんじゃなくて、激辛なんだよ。",
+  "target": "激辛",
+  "target_start": 14,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/ja/emp-ja-050-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/ja/emp-ja-050-voice1-sft-plain.mp3",
+    "emph": "audio/ja/emp-ja-050-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/ja/emp-ja-050-voice1-dpo-plain.mp3",
+    "emph": "audio/ja/emp-ja-050-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/ja/emp-ja-050-voice1-fish-s2-plain.mp3",
+    "emph": "audio/ja/emp-ja-050-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/ja/emp-ja-050-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/ja/emp-ja-050-voice1-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "ja",
+  "text_id": "emp-ja-050",
+  "voice": 3,
+  "gender": "female",
+  "text": "この料理は辛いんじゃなくて、激辛なんだよ。",
+  "target": "激辛",
+  "target_start": 14,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/ja/emp-ja-050-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/ja/emp-ja-050-voice3-sft-plain.mp3",
+    "emph": "audio/ja/emp-ja-050-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/ja/emp-ja-050-voice3-dpo-plain.mp3",
+    "emph": "audio/ja/emp-ja-050-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/ja/emp-ja-050-voice3-fish-s2-plain.mp3",
+    "emph": "audio/ja/emp-ja-050-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/ja/emp-ja-050-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/ja/emp-ja-050-voice3-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "ja",
+  "text_id": "emp-ja-061",
+  "voice": 1,
+  "gender": "male",
+  "text": "打ち合わせは食堂の奥でやるので、会議室には行かないでください。",
+  "target": "食堂",
+  "target_start": 6,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/ja/emp-ja-061-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/ja/emp-ja-061-voice1-sft-plain.mp3",
+    "emph": "audio/ja/emp-ja-061-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/ja/emp-ja-061-voice1-dpo-plain.mp3",
+    "emph": "audio/ja/emp-ja-061-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/ja/emp-ja-061-voice1-fish-s2-plain.mp3",
+    "emph": "audio/ja/emp-ja-061-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/ja/emp-ja-061-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/ja/emp-ja-061-voice1-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "ja",
+  "text_id": "emp-ja-061",
+  "voice": 3,
+  "gender": "female",
+  "text": "打ち合わせは食堂の奥でやるので、会議室には行かないでください。",
+  "target": "食堂",
+  "target_start": 6,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/ja/emp-ja-061-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/ja/emp-ja-061-voice3-sft-plain.mp3",
+    "emph": "audio/ja/emp-ja-061-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/ja/emp-ja-061-voice3-dpo-plain.mp3",
+    "emph": "audio/ja/emp-ja-061-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/ja/emp-ja-061-voice3-fish-s2-plain.mp3",
+    "emph": "audio/ja/emp-ja-061-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/ja/emp-ja-061-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/ja/emp-ja-061-voice3-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "ja",
+  "text_id": "emp-ja-068",
+  "voice": 1,
+  "gender": "male",
+  "text": "その費用について、こちらから請求する予定は一切ありません。",
+  "target": "一切",
+  "target_start": 21,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/ja/emp-ja-068-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/ja/emp-ja-068-voice1-sft-plain.mp3",
+    "emph": "audio/ja/emp-ja-068-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/ja/emp-ja-068-voice1-dpo-plain.mp3",
+    "emph": "audio/ja/emp-ja-068-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/ja/emp-ja-068-voice1-fish-s2-plain.mp3",
+    "emph": "audio/ja/emp-ja-068-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/ja/emp-ja-068-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/ja/emp-ja-068-voice1-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "ja",
+  "text_id": "emp-ja-068",
+  "voice": 3,
+  "gender": "female",
+  "text": "その費用について、こちらから請求する予定は一切ありません。",
+  "target": "一切",
+  "target_start": 21,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/ja/emp-ja-068-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/ja/emp-ja-068-voice3-sft-plain.mp3",
+    "emph": "audio/ja/emp-ja-068-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/ja/emp-ja-068-voice3-dpo-plain.mp3",
+    "emph": "audio/ja/emp-ja-068-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/ja/emp-ja-068-voice3-fish-s2-plain.mp3",
+    "emph": "audio/ja/emp-ja-068-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/ja/emp-ja-068-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/ja/emp-ja-068-voice3-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "ja",
+  "text_id": "emp-ja-069",
+  "voice": 1,
+  "gender": "male",
+  "text": "弁当は四つ頼んであるから、あとは飲み物だけ買えばいいよ。",
+  "target": "四",
+  "target_start": 3,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/ja/emp-ja-069-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/ja/emp-ja-069-voice1-sft-plain.mp3",
+    "emph": "audio/ja/emp-ja-069-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/ja/emp-ja-069-voice1-dpo-plain.mp3",
+    "emph": "audio/ja/emp-ja-069-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/ja/emp-ja-069-voice1-fish-s2-plain.mp3",
+    "emph": "audio/ja/emp-ja-069-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/ja/emp-ja-069-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/ja/emp-ja-069-voice1-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "ja",
+  "text_id": "emp-ja-069",
+  "voice": 3,
+  "gender": "female",
+  "text": "弁当は四つ頼んであるから、あとは飲み物だけ買えばいいよ。",
+  "target": "四",
+  "target_start": 3,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/ja/emp-ja-069-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/ja/emp-ja-069-voice3-sft-plain.mp3",
+    "emph": "audio/ja/emp-ja-069-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/ja/emp-ja-069-voice3-dpo-plain.mp3",
+    "emph": "audio/ja/emp-ja-069-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/ja/emp-ja-069-voice3-fish-s2-plain.mp3",
+    "emph": "audio/ja/emp-ja-069-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/ja/emp-ja-069-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/ja/emp-ja-069-voice3-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "ja",
+  "text_id": "emp-ja-071",
+  "voice": 1,
+  "gender": "male",
+  "text": "さっき部長から、締め切りは今日の五時だというメールが来ていました。",
+  "target": "今日",
+  "target_start": 13,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/ja/emp-ja-071-voice1-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/ja/emp-ja-071-voice1-sft-plain.mp3",
+    "emph": "audio/ja/emp-ja-071-voice1-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/ja/emp-ja-071-voice1-dpo-plain.mp3",
+    "emph": "audio/ja/emp-ja-071-voice1-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/ja/emp-ja-071-voice1-fish-s2-plain.mp3",
+    "emph": "audio/ja/emp-ja-071-voice1-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/ja/emp-ja-071-voice1-qwen3-tts-plain.mp3",
+    "emph": "audio/ja/emp-ja-071-voice1-qwen3-tts-emph.mp3"
+   }
+  }
+ },
+ {
+  "lang": "ja",
+  "text_id": "emp-ja-071",
+  "voice": 3,
+  "gender": "female",
+  "text": "さっき部長から、締め切りは今日の五時だというメールが来ていました。",
+  "target": "今日",
+  "target_start": 13,
+  "systems": {
+   "Ours-Base": {
+    "plain": "audio/ja/emp-ja-071-voice3-base-plain.mp3"
+   },
+   "Ours-SFT": {
+    "plain": "audio/ja/emp-ja-071-voice3-sft-plain.mp3",
+    "emph": "audio/ja/emp-ja-071-voice3-sft-emph.mp3"
+   },
+   "Ours-DPO": {
+    "plain": "audio/ja/emp-ja-071-voice3-dpo-plain.mp3",
+    "emph": "audio/ja/emp-ja-071-voice3-dpo-emph.mp3"
+   },
+   "Fish-S2": {
+    "plain": "audio/ja/emp-ja-071-voice3-fish-s2-plain.mp3",
+    "emph": "audio/ja/emp-ja-071-voice3-fish-s2-emph.mp3"
+   },
+   "Qwen3-TTS": {
+    "plain": "audio/ja/emp-ja-071-voice3-qwen3-tts-plain.mp3",
+    "emph": "audio/ja/emp-ja-071-voice3-qwen3-tts-emph.mp3"
+   }
+  }
+ }
+]
